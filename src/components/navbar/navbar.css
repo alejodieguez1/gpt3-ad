@@ -44,6 +44,11 @@
   margin: 0 1rem;
   cursor: pointer;
 }
+.gpt3__navbar-links_container p:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+  text-decoration: underline;
+}
 
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {

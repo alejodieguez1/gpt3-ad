@@ -5,7 +5,6 @@ import "./navbar.css";
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
-
   return (
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
