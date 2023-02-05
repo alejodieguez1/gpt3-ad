@@ -1,11 +1,12 @@
 ## Project Information
 ### [Live Site](https://gpt3-ad.netlify.app/)
 This project puts in practice the following methodologies:
--React functional components and their reusability
--React Project files & folder structures
--CSS properties for proper styling
--BEM Methodology
--Media queries for responsiveness across multi-devices
+
+|React functional components and their reusability|
+|React Project files & folder structures|
+|CSS properties for proper styling|
+|BEM Methodology|
+|Media queries for responsiveness across multi-devices|
 
 ## Available Scripts
 
