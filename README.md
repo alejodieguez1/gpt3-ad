@@ -1,6 +1,11 @@
 ## Project Information
-
-This is a project created using the Create React App and React Icons to develop a fully responsive modern web design
+### [Live Site](https://gpt3-ad.netlify.app/)
+This project puts in practice the following methodologies:
+-React functional components and their reusability
+-React Project files & folder structures
+-CSS properties for proper styling
+-BEM Methodology
+-Media queries for responsiveness across multi-devices
 
 ## Available Scripts
 
