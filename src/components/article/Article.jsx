@@ -11,7 +11,7 @@ const Article = ({ imgUrl, date, text }) => (
         <p>{date}</p>
         <h3>{text}</h3>
       </div>
-      <p>Read Full Article</p>
+      <p className="gpt3__blog-container_article-button">Read Full Article</p>
     </div>
   </div>
 );

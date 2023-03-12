@@ -43,11 +43,13 @@
   text-transform: capitalize;
   margin: 0 1rem;
   cursor: pointer;
+  transition: 0.3s;
 }
-.gpt3__navbar-links_container p:hover {
+.gpt3__navbar-links_container p:hover,
+.gpt3__navbar-sign p:hover {
   transform: scale(1.05);
-  transition: 0.5s;
-  text-decoration: underline;
+  transition: 0.3s;
+  border-bottom: 1px solid #ff4820;
 }
 
 .gpt3__navbar-sign button,
@@ -62,7 +64,15 @@
   border: none;
   outline: none;
   cursor: pointer;
+  transition: 0.3s;
   border-radius: 5px;
+}
+
+.gpt3__navbar-sign button:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+  background: #fa5e3b;
+  box-shadow: 0 0 5px #ff4820;
 }
 
 .gpt3__navbar-menu {
